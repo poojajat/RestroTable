@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+  "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="hib.swing">
+<class name="Menu" table="newmenu1">
+    <id name="serialNo">
+        <generator class="native"/>
+        </id>
+         <id name="foodName" column="fn"/>
+     <property name="foodCategory" column="fc"/> 
+      <property name="image" column="image"/>
+       <property name="cost" column="cost"/>
+</class>
+</hibernate-mapping>
+
