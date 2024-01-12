@@ -18,3 +18,16 @@ billing and order details. It contains smart features like Scanner which custome
 ### Order Section:
 ![j1](https://github.com/poojajat/RestroTable/blob/master/R3.png)
 ### Payment Section:
+![j1](https://github.com/poojajat/RestroTable/blob/master/R4.png)
+
+## Used By
+This project is used by:
+
+- Customers of restaurants.
+- Cook works in restaurants.
+- Manager for updating menu.
+
+## Author
+POOJA JAT
+- [GitHub](https://www.github.com/poojajat)
+- [LinkedIn](https://www.linkedin.com/in/pooja-jat)
