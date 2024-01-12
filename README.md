@@ -17,6 +17,7 @@ billing and order details. It contains smart features like Scanner which custome
 ## Sections
 
 ### Five-Level Authentication
+![j1](https://github.com/poojajat/RestroTable/blob/master/R5.png)
 
 ### Order Section:
 ![j1](https://github.com/poojajat/RestroTable/blob/master/R3.png)
