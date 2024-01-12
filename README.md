@@ -34,8 +34,8 @@ billing and order details. It contains smart features like Scanner which custome
 ## Used By
 This project is used by:
 
-- Customers of restaurants.
-- Cook works in restaurants.
+- Customers of a restaurant.
+- Cook works in the restaurant.
 - Manager for updating menu.
 
 ## Author
