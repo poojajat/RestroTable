@@ -15,5 +15,6 @@ billing and order details. It contains smart features like Scanner which custome
 - Smart and safe payment mode
   
 ## Sections
-Order Section:
-![j1]()
+### Order Section:
+![j1](https://github.com/poojajat/RestroTable/blob/master/R3.png)
+### Payment Section:
